@@ -1,0 +1,30 @@
+_repo: Zur-neuen-Lehre-Betrachtungen_64533
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Druskowitz, H.
+    alias: Druskowitz, Helene von
+    birthdate: 1856
+    deathdate: 1918
+    gutenberg_agent_id: '52944'
+    url: http://www.gutenberg.org/2009/agents/52944
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Helene_von_Druskowitz
+    - https://de.wikipedia.org/wiki/Helene_von_Druskowitz
+description: ''
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64533'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Evolution'
+- !lcsh 'Philosophy'
+- !lcsh 'Metaphysics'
+- GITenberg
+title: 'Zur neuen Lehre: Betrachtungen'
+url: http://www.gutenberg.org/ebooks/64533

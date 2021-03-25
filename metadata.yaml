@@ -1,5 +1,8 @@
 _repo: Zur-neuen-Lehre-Betrachtungen_64533
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64533-h/images/cover.jpg
 creator:
   author:
     agent_name: Druskowitz, H.
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Helene_von_Druskowitz
     - https://de.wikipedia.org/wiki/Helene_von_Druskowitz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64533#Zur-neuen-Lehre-Betrachtungen
 gutenberg_issued: '2021-02-12'
 gutenberg_type: Text
 identifiers:
